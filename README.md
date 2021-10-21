@@ -163,7 +163,7 @@ var interseccao = primeiraLista.intersection(segundaLista).sorted()
 print("Questão 11) A intersecção das listas A e B é a lista: \(interseccao)")
 ```
 
-### Questão 12) Dada duas lista de números A[1,2,3,4] e B[1,2,5,8], faça um algoritmo que retorne a concatenação das listas.
+#### Questão 12) Dada duas lista de números A[1,2,3,4] e B[1,2,5,8], faça um algoritmo que retorne a concatenação das listas.
 ```
 var listaA : Array = [1, 2, 3, 4]
 var listaB : Array = [1, 2, 5, 8]
