@@ -3,7 +3,7 @@
 
 Oi, time Toodoo! Sou Luiza Moruz e esse é o resultado do meu teste de lógica. Obrigada pela oportunidade de fazer esse desafio! Achei desafiador na medida certa e até divertido de fazer! :)
 A linguagem que escolhi para fazer foi Swift, pois é que a venho estudando nos ultimos meses e tenho mais familiaridade! E também porque eu amo a praticidade da sintaxe do Swift!
-### Observação importante: como no Swift Playground é impossível ler um input, eu atribui valores numéricos em todas as questões.
+### Observação importante: como no Swift Playground é impossível ler um input, eu atribui valores numéricos em todas as questões. No arquivo Contents.swift talvez seja mais fácil de ler os códigos! :)
 
 ### Resultado:
 
